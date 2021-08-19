@@ -1,0 +1,21 @@
+#### Subject must no more than 50 characters ####
+#----------------------50-----------------------#
+
+#######################################################################
+
+################### Don't edit the blank line above ###################
+#####################----Wrap body at 72 chars----#####################
+######################### Edit body at below ##########################
+Contributor:
+GUID:
+Related issue:
+
+Problem
+# Problem, Task, Reason for Commit
+Solution
+# Solution or List of Changes
+Note
+# Special instructions, testing steps, rake, etc
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.

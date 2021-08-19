@@ -1,0 +1,4 @@
+opencv-contrib-python
+numpy==1.18.5
+screeninfo
+Keras
